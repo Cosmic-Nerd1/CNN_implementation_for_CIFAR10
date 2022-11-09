@@ -1,1 +1,1 @@
-# CNN_implementation_for_CIFAR10
+# CNN_implementation_for_ CIFAR10
